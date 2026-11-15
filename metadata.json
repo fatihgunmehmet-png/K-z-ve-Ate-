@@ -1,0 +1,6 @@
+{
+  "name": "Köz ve Gölge",
+  "description": "Dinamik gece-gündüz döngüsü, ateş ışığı, kaynak toplama ve üs kurma mekaniklerine sahip sürükleyici vahşi doğa hayatta kalma oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
